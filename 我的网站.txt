@@ -1,9 +1,0 @@
-域名：http://fishing1.esy.es/
-
-FTP的IP地址	31.170.165.245
-FTP端口	21
-FTP用户名	u561256134
-FTP密码 19941206
-
-MySQL的数据库	    MySQL的用户    	        MySQL的主机	
-u561256134_mydat	u561256134_peter	mysql.hostinger.com.hk
